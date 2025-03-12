@@ -46,6 +46,6 @@
 
 ###
 
-<p align="center">"_An idiot admires complexity, a genius admires simplicity_" - Terry Davis, the smartest programmer that's ever lived</p>
+<p align="center"><i>"An idiot admires complexity, a genius admires simplicity"</i> - Terry Davis, the smartest programmer that's ever lived</p>
 
 ###
