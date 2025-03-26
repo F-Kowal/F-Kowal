@@ -2,7 +2,19 @@
 
 ###
 
-<h4 align="left">Languages and tools I use</h4>
+I'm Filip, a student and software developer with a passion for Cloud Computing and DevOps. I have worked as a .NET and Fullstack Developer for almost three years, and now I'm focused on expanding my skills in Cloud Engineering and Infrastructure while also exploring microservices development with Java and Spring Boot.
+
+###
+
+<br> 
+ 
+Check out my [Cloud Resume](https://cloudresumeacgstorage.z5.web.core.windows.net/)  
+
+<br>
+
+###
+
+<h2 align="left">Languages and tools I use</h4>  
 
 ###
 
@@ -14,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -29,7 +39,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/HolyC_Logo.svg" height="30" alt="holyc logo"  />
 </div>
 
 ###
