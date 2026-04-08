@@ -6,4 +6,4 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="50" alt="dot-net logo"  />
 </div>
 
-<h4 align="left">Worked with C# for desktop and web, now focused on C++ and Unreal Engine.</h4>
+<p align="left">Worked with C# for desktop and web, now focused on C++ and Unreal Engine.</p>
