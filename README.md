@@ -1,16 +1,13 @@
-## Hi there 👋
+<h4 align="center">Worked with C# for desktop and web, now focused on C++ and Unreal Engine.</h4>
 
-<!--
-**F-Kowal/F-Kowal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="50" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="50" alt="dot-net logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
